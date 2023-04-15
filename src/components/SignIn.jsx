@@ -35,7 +35,7 @@ function SignIn () {
                 signInEmail,
                 signInPassword
             );
-            window.open("http://localhost:3000/home",'_self');
+            window.open("https://iconcile.web.app/home",'_self');
             console.log(signInEmail);
             // console.log(user?.email);
         }
